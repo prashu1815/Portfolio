@@ -26,7 +26,7 @@ function Resume() {
               the full picture of my journey!
             </p>
             <a
-              href="https://drive.google.com/file/d/1DKhEL_NXFFFi4Q_B8suZZ9LIujVnMcgm/view?usp=drivesdk" // Link to download the resume
+              href="https://collection.cloudinary.com/dyhbpohrb/6672bf9e803b55b37da550485dc35fe1" // Link to download the resume
               download
               className="inline-block px-8 py-3 text-lg font-semibold text-white bg-blue-700 rounded-lg shadow-lg hover:bg-blue-800 transform transition-all duration-300 hover:scale-105"
             >
